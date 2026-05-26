@@ -7,7 +7,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $pass    = $_POST['password'];
 
     // Aquí sustituye tunumcontrol por tu número de control real
-    if ($usuario === 'tunumcontrol@itoaxaca.edu.mx' && $pass === 'numcontrolTSO') {
+    if ($usuario === '24160738@itoaxaca.edu.mx' && $pass === '24160738TSO') {
         $_SESSION['admin'] = true;
         header('Location: admin.php');
         exit;
