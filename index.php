@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Truper - Bienvenido a Truper - equipo 11 Herramientas Profesionales</title>
+    <title>Herramientas Profesionales</title>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body { font-family: Arial, sans-serif; color: #333; }
@@ -120,7 +120,7 @@
 </nav>
 
 <section id="inicio">
-    <h1> Bienvenido a Truper - Equipo 11 Herramientas Profesionales</h1>
+    <h1> Herramientas Profesionales</h1>
     <p>Calidad y durabilidad para cada trabajo. Marca líder en México.</p>
     <a href="#productos">Ver Catálogo</a>
 </section>
