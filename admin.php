@@ -93,7 +93,7 @@ $result = $conn->query("SELECT * FROM herramientas ORDER BY id");
 <body>
 
 <header>
-    <h1>🔧 Truper - Panel Administrativo | Equipo 11</h1>
+    <h1>🔧 Truper - Panel Administrativo | Yael Muñoz </h1>
     <a href="logout.php">Cerrar Sesión</a>
 </header>
 
