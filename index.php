@@ -120,7 +120,7 @@
 </nav>
 
 <section id="inicio">
-    <h1>Herramientas Profesionales</h1>
+    <h1> Bienvenido a Truper - Equipo 11 Herramientas Profesionales</h1>
     <p>Calidad y durabilidad para cada trabajo. Marca líder en México.</p>
     <a href="#productos">Ver Catálogo</a>
 </section>
